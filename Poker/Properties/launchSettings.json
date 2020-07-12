@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Porker": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\poker-hands.txt"
+    }
+  }
+}
